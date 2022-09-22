@@ -1,0 +1,23 @@
+img{
+    border-radius: 50%;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3{
+    text-align: center;
+    color: green;
+    font-weight: bold;
+}
+p{
+    color:blue;
+    text-align: center;
+    font-weight: bold;
+}
+h4{
+    color:blue;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
